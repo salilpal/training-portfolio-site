@@ -5,8 +5,7 @@ This repository contains the source code for my personal portfolio website. It s
 ## 🚀 Live Demo
 
 You can view the live website here:
-**[Insert your GitHub Pages Link Here]**
-_(e.g., https://salilpal.github.io/your-repo-name/)_
+[https://salilpal.github.io/training-portfolio-site/]
 
 ## 📄 Pages Overview
 
